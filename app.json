@@ -7,7 +7,7 @@
         "Radio",
         "TelegramBot"
     ],
-    "repository": "https://github.com/TeamDeeCode/radio",
+    "repository": "https://github.com/newname58q/newradio",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
